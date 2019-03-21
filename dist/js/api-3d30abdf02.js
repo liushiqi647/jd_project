@@ -1,0 +1,1 @@
+"use strict";var host="http://10.36.18.25:7777/",obj={login:host+"a.php"};
